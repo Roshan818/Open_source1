@@ -1,6 +1,8 @@
-# Roshan Kumar
+# *Roshan Kumar*
 ## 200104093
-
+***
+![](https://raw.githubusercontent.com/codingiitg/open_source_submission/main/coding-club%20logo.png)
+***
 ### Schedule
 |Event Name|Event Date|Gone through resources|
 |:--------:|:--------:|:--------------------:|
@@ -11,8 +13,8 @@
 |Web Development|14/05/2021|YES|
 |Machine Learning|15/05/2021|YES|
 |App Development|16/05/2021|NO|
-
-### Program Code
+***
+_Program Code_
 ```
 #include <iostream>
 #include <string>
@@ -51,14 +53,19 @@ int main()
     return 0;
 }
 ```
+***
 
-### Coding Club Logo
-![](https://raw.githubusercontent.com/codingiitg/open_source_submission/main/coding-club%20logo.png)
 
 ### Intrest in different field of coding
-I have intrest in the following fields
-1. Open source
-2. Web Development
-3. Competitive Programming
+> Having a little background in the field since I was a kid definetely sparked more inqusitiveness towards this
 
-I have participated in few contests of CodeChef.
+1.Open source
+  - It's very intresting 
+  - Definetely it is more efficient to develop when we learn from the repositories
+   
+2.Web Development
+  - I have prior knowledge about HTML , so I started learning CSS to add to my skill
+  
+3.Competitive Programming
+  - Definetely the coolest part ,gives insight of getting more efficient codes
+  - Lot of things to learn here ,especially the DS & Algo
